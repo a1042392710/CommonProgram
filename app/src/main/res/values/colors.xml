@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8dc03f</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="baseBackGround">#f5fbfb</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="not_network_color">#ffecb3</color>
+    <color name="black_bg">#3D3D3D</color>
+    <color name="notice_line">#aad171</color>
+
+    <!--日历属性-->
+    '
+
+
+    <!--==================== 打卡-->
+
+    <!--签到-->
+    <!--漏打卡-->
+    <!--迟到-->
+    <!--请假-->
+</resources>

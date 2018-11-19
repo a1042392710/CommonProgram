@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--状态栏添加values 与values-19适配-->
+    <dimen name="base_toolbar_height_v19">48dp</dimen>
+    <dimen name="status_bar_height">0dp</dimen>
+    <!---->
+    <dimen name="base_toolbar_height">48dp</dimen>
+
+
+</resources>

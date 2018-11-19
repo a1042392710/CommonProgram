@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/include_no_data.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/include_no_data.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/photo_grid_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/photo_grid_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/mtrl_layout_snackbar.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/61573335fa8ad34611b93b050aa73632/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/act_splash.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/act_splash.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/fragment_photo_selection.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/fragment_photo_selection.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/jpush-3.1.6.aar/75425965b811427f15058efebfc20bb3/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/exception_loading_content.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/dynamicbox-1.2.aar/4e4014a11fab079e1979b677f8da0c93/res/layout/exception_loading_content.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/bde3d4c40c95fe490f0610d1aaa46264/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/photo_grid_content.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/photo_grid_content.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/cv_week_bar.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/cv_week_bar.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/61573335fa8ad34611b93b050aa73632/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/item_bottom_bar.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/BottomBarLayout-1.1.2.aar/41ed85e9bd6c17cb1339f78449f10ca9/res/layout/item_bottom_bar.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/custom_week_bar.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/custom_week_bar.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/photo_capture_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/photo_capture_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/mtrl_layout_snackbar_include.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/bde3d4c40c95fe490f0610d1aaa46264/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/swipeback_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/library-1.1.0.aar/7aaab3e759b632ba088419b113fd724c/res/layout/swipeback_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/cv_item_list_year.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/cv_item_list_year.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/bde3d4c40c95fe490f0610d1aaa46264/res/layout/leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/exception_failure.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/dynamicbox-1.2.aar/4e4014a11fab079e1979b677f8da0c93/res/layout/exception_failure.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/bde3d4c40c95fe490f0610d1aaa46264/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/61573335fa8ad34611b93b050aa73632/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/act_photo_pager.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/act_photo_pager.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/cv_layout_calendar_view.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/cv_layout_calendar_view.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/act_login.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/act_login.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/61573335fa8ad34611b93b050aa73632/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/fragment_preview_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/fragment_preview_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/dialog_loading.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/act_main.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/act_main.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/activity_matisse.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/activity_matisse.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/61573335fa8ad34611b93b050aa73632/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/view_top_not_network.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/view_top_not_network.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/album_list_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/album_list_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/exception_no_internet.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/dynamicbox-1.2.aar/4e4014a11fab079e1979b677f8da0c93/res/layout/exception_no_internet.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/date_time_picker_layout.xml",
+        "source": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/src/main/res/layout/date_time_picker_layout.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/activity_photo_preview.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/2a951eea449afe106a0571d106e67eed/res/layout/activity_photo_preview.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_tooltip.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/bde3d4c40c95fe490f0610d1aaa46264/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f87e8084254723c99bec6be204b26021/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/jpush-3.1.6.aar/75425965b811427f15058efebfc20bb3/res/layout/jpush_popwin_layout.xml"
+    }
+]

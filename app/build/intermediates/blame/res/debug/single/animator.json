@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/design_fab_show_motion_spec.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/design_fab_hide_motion_spec.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/mtrl_chip_state_list_anim.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/res/merged/debug/animator/mtrl_btn_state_list_anim.xml",
+        "source": "/Users/jiangxihuayuan/mygradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fe548c1a5c2ba0c0619f1815e19cba5a/res/animator/mtrl_btn_state_list_anim.xml"
+    }
+]
