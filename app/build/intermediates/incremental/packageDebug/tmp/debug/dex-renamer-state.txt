@@ -1,4 +1,0 @@
-#Mon Nov 19 15:20:11 CST 2018
-base.0=/Users/jiangxihuayuan/Desktop/公司/chenhao/BaseProject/app/build/intermediates/transforms/dex/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
